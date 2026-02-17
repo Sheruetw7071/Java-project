@@ -1,0 +1,27 @@
+{
+  "name": "flash-phone-finds",
+  "version": "1.0.0",
+  "description": "Dynamic E-Commerce Platform for Mobile Accessories",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "backend": "node backend/server.js",
+    "start": "npm run backend"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.0",
+    "@babel/preset-env": "^7.22.0",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "supertest": "^6.3.3"
+  },
+  "keywords": ["mobile accessories", "e-commerce", "javascript"],
+  "author": "",
+  "license": "ISC"
+}
