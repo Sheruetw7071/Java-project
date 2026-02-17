@@ -26,7 +26,7 @@ npm --version
 
 ### 1. Clone or Extract the Project
 ```bash
-cd d:\UC-13804
+cd d:\Java project
 ```
 
 ### 2. Install Frontend Dependencies
@@ -75,7 +75,7 @@ Or simply open `index.html` directly in your browser (note: some features may re
 ## Project Structure
 
 ```
-UC-13804/
+Java project/
 ├── index.html              # Home page
 ├── product.html            # Products catalog
 ├── cart.html               # Shopping cart
